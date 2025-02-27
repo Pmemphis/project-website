@@ -392,3 +392,21 @@ form{
 
 
 }
+figure{
+    margin-left: 53px;
+    padding: auto;
+    position: absolute;
+    
+    flex-direction: column;
+
+}
+figcaption{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 5px;
+    padding: 2px;
+    margin-left: 58px;
+}
+
