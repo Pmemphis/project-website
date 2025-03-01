@@ -409,4 +409,13 @@ figcaption{
     padding: 2px;
     margin-left: 58px;
 }
+@media screen  and (max-width:768px{
+    body{
+        font-size: 14px;
+    }
+    nav ul{
+        display: block;
+        text-align: center;
+    }
+}
 
